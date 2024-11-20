@@ -34,8 +34,8 @@ footer {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 .carousel-inner img {
-    max-width: 400px; /* Limits the maximum width of the images to 400px */
-    height: auto;     /* Automatically adjusts height to maintain aspect ratio */
-    margin: 0 auto;   /* Centers the images horizontally within the carousel */
+    max-width: 400px;
+    height: auto;     
+    margin: 0 auto; 
 }
 
